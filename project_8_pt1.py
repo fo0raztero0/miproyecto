@@ -9,7 +9,7 @@ class Imagen():
 
 class sonido():
     def reproducir(self):
-        pass
+        print("play")
 
     def volumen(self):
         pass
