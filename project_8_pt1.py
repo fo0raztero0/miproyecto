@@ -11,4 +11,8 @@ class sonido():
     def reproducir(self):
         pass
 
-    
+    def volumen(self):
+        pass
+
+    def fourier(self):
+        pass
