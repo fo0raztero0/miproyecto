@@ -16,3 +16,10 @@ class sonido():
 
     def fourier(self):
         pass
+
+class senal():
+    def frecuencia(self):
+        pass
+
+    def modo (self):
+        pass
